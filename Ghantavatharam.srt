@@ -1,39 +1,42 @@
-1
+﻿1
 00:00:00,568 --> 00:00:06,050
-Pāñchajanyam Trust proudly presents…
+Pāñchajanyam Trust proudly presents:
 
 2
 00:00:07,050 --> 00:00:09,999
-…Srī Vēdānta Dēsika’s…
+Srī Vēdānta Dēsika’s
 
 3
 00:00:10,050 --> 00:00:12,050
-…Ghaṇṭāvatāram…
+Ghaṇṭāvatāram
 
 4
-00:00:12,081 --> 00:00:15,050
-…(Background Song) The pure soul who emerged on the holy day of Śrāvaṇam…
+00:00:12,935 --> 00:00:16,728
+[Background Song]
+The pure soul who emerged on the holy day of Śrāvaṇam.
 
 5
-00:00:17,448 --> 00:00:22,630
+00:00:17,050 --> 00:00:22,630
 Some errors are possible due to the negligence
 
 6
-00:00:22,631 --> 00:00:27,000
+00:00:22,631 --> 00:00:25,744
 and paucity of skills of the actors.
 
 7
-00:00:27,255 --> 00:00:37,050
+00:00:26,356 --> 00:00:37,050
 But great hearts forgive them and appreciate the effort.
-—Swāmi Dēsika (Yādavābhyudayam)
+[—Yādavābhyudayam by Swāmi Vēdānta Dēsika]
 
 8
 00:01:32,050 --> 00:01:36,050
+[Srīraṅgam]
 Raṅga…
 
 9
 00:01:43,050 --> 00:01:46,050
-[Kāñchipuram, a few years back]
+[Kāñchīpuram]
+[a few years back]
 
 10
 00:02:12,050 --> 00:02:19,050
@@ -129,7 +132,7 @@ Please accept it.
 
 33
 00:03:54,050 --> 00:03:58,118
-Priest, please offer this to the Lord.
+Priest, please offer this to Lord Varada.
 
 34
 00:03:58,112 --> 00:04:01,701
@@ -289,6 +292,7 @@ May all good things come your way.
 
 73
 00:06:52,823 --> 00:06:54,363
+[Tūppul, Kāñchīpuram]
 Tōtārāmbā? Tōtārāmbā.
 
 74
@@ -345,7 +349,7 @@ Greetings.
 
 87
 00:08:27,131 --> 00:08:29,970
-O Lord of the Holy Hills of Tivuveṅkaṭa!
+O Lord of the Holy Hills of Tiruveṅkaṭa!
 
 88
 00:08:30,438 --> 00:08:35,466
@@ -369,7 +373,7 @@ From where have you come, Swāmi?
 
 93
 00:09:17,323 --> 00:09:19,474
-We’re coming from Perumāḷ Kōil, Tūpul.
+We’re coming from Perumāḷ Kōil, Tūppul.
 
 94
 00:09:19,790 --> 00:09:22,240
@@ -437,7 +441,7 @@ I understand now.
 
 110
 00:10:45,884 --> 00:10:51,382
-Due to Kalī’s might, adharma is prevalent everywhere.
+Due to Kalī’s might, adharma (unrighteousness) is prevalent everywhere.
 
 111
 00:10:52,196 --> 00:10:54,629
@@ -457,7 +461,7 @@ Yes, Dēvī?
 
 115
 00:11:05,050 --> 00:11:08,847
-I can hear the bell in Vaikuṇṭha.
+I can hear the Ghaṇṭā (bell) in Vaikuṇṭha.
 
 116
 00:11:09,020 --> 00:11:11,555
@@ -489,11 +493,11 @@ Having got all the wealth in this birth…
 
 123
 00:11:50,757 --> 00:11:55,882
-<i>… you shall be born as Vēdāntāchārya in the next birth.</i>
+… you shall be born as the Guru of Vēdāntic Doctrine (Vēdāntāchārya) in the next birth.
 
 124
 00:11:56,230 --> 00:11:59,146
-You shall preach the path of complete surrender to the world…
+You shall preach the path of complete surrender (Śaraṇāgathi) to the world…
 
 125
 00:11:59,468 --> 00:12:01,935
@@ -533,7 +537,7 @@ It feels heartening to hear this Swāmi.
 
 134
 00:12:33,520 --> 00:12:34,762
-O Tirumaṅgāi of Kañchi!
+O Kāñchat’Thirumanga!
 
 135
 00:12:35,107 --> 00:12:38,050
@@ -553,7 +557,7 @@ Srīnivāsa … Srīnivāsa …
 
 139
 00:14:05,548 --> 00:14:08,085
-Oh, what a beautiful dream!
+Oh, what a beautiful, divine dream!
 
 140
 00:14:15,094 --> 00:14:16,564
@@ -577,7 +581,7 @@ What is it?
 
 145
 00:14:39,653 --> 00:14:43,338
-It is all His grace.
+It is all Lord Tiruveṅkaṭamuḍaiyān's grace.
 
 146
 00:14:52,050 --> 00:14:54,147
@@ -633,15 +637,15 @@ It is so strange…
 
 159
 00:15:20,017 --> 00:15:22,287
-…Oh! Jīya Swāmi has come. Thank God.
+Oh! Jīyar Swāmi has come. Thank God.
 
 160
 00:15:26,050 --> 00:15:28,050
-Swāmi, Perumāḷ’s bell is missing—
+Swāmi, Perumāḷ’s bell is missing…
 
 161
 00:15:37,050 --> 00:15:38,166
-Jīya!
+…Jīya!
 
 162
 00:15:38,406 --> 00:15:44,169
@@ -657,7 +661,7 @@ She had a dream last night.
 
 165
 00:15:56,714 --> 00:15:58,606
-In that dream, perumāḷ’s Sacred Bell …
+In that dream, Perumāḷ’s Sacred Bell …
 
 166
 00:15:58,607 --> 00:16:00,401
@@ -673,71 +677,72 @@ Srīnivasa … Vēṅkaṭanātha … Gōvinda … Gōvinda ……
 
 169
 00:16:12,894 --> 00:16:17,689
-He is the pure soul who emerged from Tūpul on the holy day Śrāvaṇam star.
+[Tūppul, Kāñchīpuram]
+<i>He is the pure soul who emerged from Tūppul on the holy day Śrāvaṇam star</i>
 
 170
 00:16:18,526 --> 00:16:23,021
-He is the leader of the Holy Vēdas.
+<i>He is the leader of the Holy Vēdas.</i>
 
 171
 00:16:23,529 --> 00:16:28,050
-He is the pure soul who emerged from Tūpul on the holy day Śrāvaṇam star.
+<i>He is the pure soul who emerged from Tūppul on the holy day Śrāvaṇam star.</i>
 
 172
 00:16:28,878 --> 00:16:39,460
-He is the incarnation of the divine bell of Lord of Tirumala.
+<i>He is the incarnation of the divine bell of Lord of Tirumala.</i>
 
 173
 00:16:40,050 --> 00:16:44,050
-He is the Ghaṇṭāvatāram of Srī Vēṅkaṭēśa.
+<i>He is the Ghaṇṭāvatāram of Srī Vēṅkaṭēśa.</i>
 
 174
 00:16:45,050 --> 00:16:54,659
-He is a form of Guru Srī Rāmānuja.
+<i>He is a form of Guru Srī Rāmānuja.</i>
 
 175
 00:16:55,050 --> 00:17:01,001
-He emerged due to the grace of Magizhmāran, the leader of Tamil Vēdas.
+<i>He emerged due to the grace of Magizhmāran, the leader of Tamil Vēdas.</i>
 
 176
 00:17:01,400 --> 00:17:05,050
-He is the pure soul who emerged from Tūpul.
+<i>He is the pure soul who emerged from Tūppul.</i>
 
 177
 00:17:06,347 --> 00:17:11,561
-He is the light of knowledge in Kali Yuga.
+<i>He is the light of knowledge in Kali Yuga.</i>
 
 178
 00:17:12,050 --> 00:17:16,050
-He emerged to make the Lord of the Karigiri Hills (Lord Varada) happy.
+<i>He emerged to make the Lord of the Karigiri Hills (Lord Varada) happy.</i>
 
 179
 00:17:17,050 --> 00:17:28,191
-He is the Dēsika who explained the greatness of Lord Srīranganātha’s Holy Feet.
+<i>He is the Dēsika who explained the greatness of Lord Srīranganātha’s Holy Feet.</i>
 
 180
 00:17:31,050 --> 00:17:35,050
-Hail the one who conquered the fake philosophies and established Srī Rāmānuja’s Viśiṣṭhādvaita unequivocally.
+<i>Hail the one who conquered the fake philosophies and established Srī Rāmānuja’s Viśiṣṭhādvaita unequivocally.</i>
 
 181
 00:17:35,442 --> 00:17:40,638
-Hail the one who warmed the heart of the ever-famous Srīperumbudūr-born (Rāmānujāchārya).
+<i>Hail the one who warmed the heart of the ever-famous Srīperumbudūr-born (Rāmānujāchārya).</i>
 
 182
 00:17:41,050 --> 00:17:45,732
-Hail the one who pleased the Lotus Dame (and received the title ‘Sarva-tantra Swatantra’)
+<i>Hail the one who pleased the Lotus Dame (and received the title ‘Sarva-tantra Swatantra’)</i>
 
 183
 00:17:46,050 --> 00:17:50,050
-Hail the one who always had in his heart the meaning of Tirumaṅgāi Āzhwār’s (six) Prabandhas…
+<i>Hail the one who always had in his heart the meaning of Tirumaṅgāi Āzhwār’s (six) Prabandhas…</i>
 
 184
 00:17:50,050 --> 00:17:56,424
-Hail the one who clearly enunciated the rich and authentic Tamil Vēdas known as ‘Divya Prabandha’.
+<i>Hail the one who clearly enunciated the rich and authentic Tamil Vēdas known as ‘Divya Prabandha’.</i>
 
 185
 00:17:56,629 --> 00:18:02,059
-Hail the one who was born as the great Bell of the Lord of the Seven Hills.
+<i>Hail the one who was born as the great Bell of the Lord of the Seven Hills.</i>
 
 186
 00:18:02,207 --> 00:18:07,298
@@ -745,11 +750,11 @@ Hail the one who was born as the great Bell of the Lord of the Seven Hills.
 
 187
 00:18:07,349 --> 00:18:12,425
-Hail Vēṅkaṭanātha of Tūpul who is a Master of excellent Tamil.
+<i>Hail Vēṅkaṭanātha of Tūppul who is a Master of excellent Tamil.</i>
 
 188
 00:18:12,618 --> 00:18:18,684
-Vēṅkaṭa, Tiruvēṅkaṭa!
+<i>Vēṅkaṭa, Tiruvēṅkaṭa!</i>
 
 189
 00:18:23,002 --> 00:18:27,228
@@ -757,7 +762,7 @@ Both of you look like a divine couple.
 
 190
 00:18:27,645 --> 00:18:30,138
-Today is my son’s <i>puṇyāvachanam</i> and naming ceremony.
+Today is my son’s puṇyāvachanam and naming ceremony.
 
 191
 00:18:30,397 --> 00:18:33,912
@@ -765,27 +770,27 @@ Kindly come in and bless him.
 
 192
 00:18:37,050 --> 00:18:42,599
-He is the dear son of Anantasūri and Tōtārāmbā.
+<i>He is the dear son of Anantasūri and Tōtārāmbā.</i>
 
 193
 00:18:43,050 --> 00:18:47,473
-He has the blessings of the <i>Nithyasūrīs</i> (Eternal Souls) like Ananta and Garuḍa…
+<i>He has the blessings of Nithyasūrīs (Eternal Souls) like Ananta and Garuḍa.</i>
 
 194
 00:18:47,647 --> 00:18:52,631
-He defeated non-believers and established Tamil Vēdas.
+<i>He defeated non-believers and established Tamil Vēdas.</i>
 
 195
 00:18:53,050 --> 00:18:58,050
-He ensured that the sound of Praṇava echoes in every part of the world.
+<i>He ensured that the sound of Praṇava echoes in every part of the world.</i>
 
 196
 00:19:05,050 --> 00:19:15,050
-He is the pure soul who emerged from Tūpul on the holy day of the Śrāvaṇam star.
+<i>He is the pure soul who emerged from Tūppul on the holy day of the Śrāvaṇam star.</i>
 
 197
 00:19:17,339 --> 00:19:25,050
-He is the pure soul who emerged from Tūpul on the holy day of the Śrāvaṇam star.
+<i>He is the pure soul who emerged from Tūppul on the holy day of the Śrāvaṇam star.</i>
 
 198
 00:19:46,070 --> 00:19:47,795
@@ -849,7 +854,7 @@ How can I complete my studies if he doesn’t teach me new lessons?
 
 213
 00:20:30,114 --> 00:20:34,754
-Is that so? Vēdas are <i>Śrutis</i> (those that must be heard).
+Is that so? Vēdas are Śrutis (those that must be heard).
 
 214
 00:20:34,927 --> 00:20:37,843
@@ -865,11 +870,11 @@ How surprising! Vēṅkaṭanātha, can I test you?
 
 217
 00:20:47,999 --> 00:20:48,999
-Yes, please!
+Yes please…
 
 218
 00:20:49,050 --> 00:20:53,452
-Tell me the first <i>Pañchati</i> in the first <i>Praśna</i> of the fourth canto?
+… Tell me the first Pañchati in the first Praśna of the fourth canto?
 
 219
 00:20:54,050 --> 00:21:07,959
@@ -877,11 +882,11 @@ Tell me the first <i>Pañchati</i> in the first <i>Praśna</i> of the fourth can
 
 220
 00:21:08,213 --> 00:21:09,743
-That should do.
+… That should do.
 
 221
 00:21:10,979 --> 00:21:15,045
-Anantasūri! Vēṅkaṭanātha does not need to come to <i>Santai</i> sessions any more.
+Anantasūri! Vēṅkaṭanātha does not need to come to Santai sessions any more.
 
 222
 00:21:15,200 --> 00:21:16,050
@@ -913,15 +918,15 @@ I listened to this conversation.
 
 229
 00:21:34,894 --> 00:21:43,649
-I will teach my nephew <i>Tarka</i>, <i>Vyākaraṇa</i>, <i>Mīmāmsa</i>, <i>Kāvya</i> and <i>Nāṭaka</i>.
+I will teach my nephew Tarka, Vyākaraṇa, Mīmāmsa, Kāvya and Nāṭaka.
 
 230
 00:21:43,897 --> 00:21:46,471
-Tomorrow is <i>Prauṣṭhapada śravaṇa</i>.
+Tomorrow is Prauṣṭhapada śravaṇa.
 
 231
 00:21:46,710 --> 00:21:49,837
-It is the <i>Tīrthavārī</i> (Holy Immersion Festival) of our Lord Vēṅkaṭeswara.
+It is the Tīrthavāri (Holy Immersion Festival) of our Lord Vēṅkaṭeswara.
 
 232
 00:21:49,988 --> 00:21:51,307
@@ -933,7 +938,7 @@ Our Vēṅkaṭanātha’s birthday.
 
 234
 00:21:54,282 --> 00:21:58,934
-Let’s start our Śāstram lessons from tomorrow…
+Let’s start our traditional lessons from tomorrow.
 
 235
 00:21:59,235 --> 00:22:00,050
@@ -957,7 +962,7 @@ I’ll also come along.
 
 240
 00:22:04,878 --> 00:22:07,457
-I am going to Naḍādūr Ammāl’s <i>Kālakśepa</i> (Traditional Learning Lessons) now.
+I am going to Naḍādūr Ammāl’s Kālakśepa (Traditional Learning Sessions) now.
 
 241
 00:22:07,690 --> 00:22:09,344
@@ -993,7 +998,7 @@ Yes, my child.
 
 249
 00:22:41,471 --> 00:22:44,050
-What is the difference between Kālakśepa and <i>Upanyāsa</i> (discourse)?
+What is the difference between Kālakśepa (Traditional Learning Session) and Upanyāsa (Discourse)?
 
 250
 00:22:45,050 --> 00:22:48,137
@@ -1001,7 +1006,7 @@ Upanyāsas are works that help common men…
 
 251
 00:22:48,138 --> 00:22:52,092
-… understand epics such as the Rāmāyaṇa and the Mahābhārata.
+… understand epics such as the Rāmāyaṇa and the Mahābhārata.
 
 252
 00:22:53,050 --> 00:22:56,222
@@ -1021,7 +1026,7 @@ Yes, I do.
 
 256
 00:23:03,050 --> 00:23:05,866
-Uncle, I will be right back.
+Māmā, I will be right back.
 
 257
 00:23:06,058 --> 00:23:07,317
@@ -1029,11 +1034,11 @@ What happened, my child?
 
 258
 00:23:07,466 --> 00:23:10,893
-My <i>dhoti</i> has become dirty.
+My dhoti has become dirty.
 
 259
 00:23:11,013 --> 00:23:15,526
-I will change and come with a <i>Daṇḍa</i> (baton) to seek the His Holiness’ blessings.
+I will change and come with a Daṇḍa (baton) to seek the His Holiness’ blessings.
 
 260
 00:23:15,643 --> 00:23:16,643
@@ -1065,11 +1070,11 @@ Yes, he is!
 
 267
 00:23:55,050 --> 00:24:02,050
-He looks like a re-incarnation of <i>Swāmi Rāmānuja</i>.
+<i>He looks like a re-incarnation of Swāmi Rāmānuja.</i>
 
 268
 00:24:03,870 --> 00:24:05,870
-Shall we being with our Kālakśepa?
+Shall we begin with our Kālakśepa?
 
 269
 00:24:07,431 --> 00:24:09,566
@@ -1089,7 +1094,7 @@ We forgot the stopping point upon seeing the child’s radiance.
 
 273
 00:24:24,748 --> 00:24:27,813
-Perhaps my presence disturbed the gathering.
+Perhaps my presence disturbed this gathering.
 
 274
 00:24:28,257 --> 00:24:31,833
@@ -1105,7 +1110,7 @@ Go ahead.
 
 277
 00:24:36,734 --> 00:24:41,445
-The first Adhikāraṇam in the first Adhyāya of <i>Srī Bhāṣyam</i>.
+The first Adhikāraṇam in the first Adhyāya of Srī Bhāṣyam.
 
 278
 00:24:41,605 --> 00:24:49,021
@@ -1169,6 +1174,8 @@ Greetings.
 
 293
 00:28:22,745 --> 00:28:25,326
+[Kāñchīpuram] 
+[Song - Pāsuram 9.2.7, Tirumaṅgāi Āzhwār's Periya Tirumozhī]
 Tirumaṅgā, can we please leave now?
 
 294
@@ -1213,7 +1220,7 @@ You mean Tōtārambā’s son?
 
 304
 00:29:12,594 --> 00:29:16,210
-Who in entire Kāñchipuram who doesn’t know him?
+Who in entire Kāñchīpuram who doesn’t know him?
 
 305
 00:29:16,892 --> 00:29:20,403
@@ -1237,7 +1244,7 @@ Yes, Mother?
 
 310
 00:29:32,115 --> 00:29:34,050
-Here comes his Āchārya himself.
+Here comes my husband.
 
 311
 00:29:40,545 --> 00:29:42,545
@@ -1285,53 +1292,51 @@ He will be going to Tiruvāhīndrapuram to meditate on it.
 
 322
 00:30:38,050 --> 00:30:42,463
-[Swāmi Dēsika offers his salutations to the Srī Vaiṣṇava guru lineage starting from Devādinātha and his consort Kamalā…
+[Tiruvāhīndrapuram]
 
 323
 00:30:42,896 --> 00:30:47,050
-Viśwaksēna, Swāmi Nammāzhwār, Swāmi Nāthamuni, Uyyakoṇḍār,
+[Recitation - Ślōka 2, Dēvanāyaka Pañchāśat by Swāmi Vēdānta Dēsika]
 
 324
 00:30:47,476 --> 00:30:51,792
-Manakkal Nambi, Ālavandār, Rāmānuja, to his guru Appuḷḷār,
+
 
 325
 00:30:52,519 --> 00:30:57,776
-Prostrations to all of them.]
-—Ślōkam 2, Dēvanāyaka Pañchāśat by Swāmi Dēsika…
+
 
 326
 00:30:58,050 --> 00:31:02,896
-…Oh Supreme Master of the assembly of Dēvas! Everyone of your limbs is filled with Saundarya and Lāvaṇya. Hence, it is not easy to describe the incomparable beauty of your divine body.
+[Recitation - Ślōka 14, Garuḍa Pañchāśat by Swāmi Vēdānta Dēsika]
 
 327
 00:31:03,691 --> 00:31:07,050
-Jewels and weapons gain lustre through His association and Your consorts don’t even wink for fear of missing the divine experience.
+
 
 328
-00:31:08,050 --> 00:31:11,050
-As for me, the flood of beauty associated with your Holy Presence overwhelms me…
+00:31:08,050 --> 00:31:11,981
+
 
 329
 00:31:12,050 --> 00:31:18,050
-…my eyes enjoy this unparalleled beauty of yours without satiety.
-—Verse 14, Dēvanāyaka Pañchaśat by Swāmi Dēsika.
+
 
 330
-00:31:21,050 --> 00:31:28,050
-We practice the chanting of the Garuḍa Mantra with Praṇava, the main import of all the Vēdanta.
+00:31:21,610 --> 00:31:28,334
+[Recitation - Ślōka 1, Garuḍa Pañchāśat by Swāmi Vēdānta Dēsika]
 
 331
-00:31:29,050 --> 00:31:34,050
-<i>This is Brahman, the embodiment of bliss absolute, after doing anganyāsa, karaṇyāsa and digbandha, and then start the japa.</i>
+00:31:29,050 --> 00:31:34,942
+
 
 332
 00:31:35,050 --> 00:31:41,050
-<i>The word Pakśi or the reverse of it with Praṇava either in the beginning or after the word, along with the name of the wife of Agni.</i>
+
 
 333
 00:31:41,374 --> 00:31:47,873
-This is the mantra which has Garuḍa as its invocatory deity.
+
 
 334
 00:31:53,687 --> 00:32:03,204
@@ -1351,20 +1356,19 @@ You will attain siddhi on performing ārādhana to this Yōga Hayagrīva idol.
 
 338
 00:32:40,050 --> 00:32:46,793
-<i>In His beautiful, lotus-soft four hands, Lord Hayagrīva sports the Sudarśana, Pāñchajanyam, Jnāna-Mudra and a Book.</i>
+[Recitation - Ślōka 32, Hayagrīva Stōtra by Swāmi Vēdānta Dēsika]
 
 339
 00:32:47,420 --> 00:32:52,894
-<i>He is seated on a freshly-blossomed White Lotus and reminds the worshippers of the whitest-white fragment of a freshly cleaved Sphaṭikam.</i>
+
 
 340
 00:32:53,465 --> 00:32:58,288
-<i>His lustre never ever fades. There is no limit to His blemish-less glories.</i>
+His lustre never ever fades. There is no limit to His blemish-less glories.
 
 341
 00:32:58,876 --> 00:33:04,354
-<i>May this Lord of Vidyā shower on me His nectarine, white and cool rays! May He reside and preside over my heart in this manner!</i>
-—Ślōka 32 from Hayagrīva Stotra by Swāmi Dēsika.
+May this Lord of Vidyā shower on me His nectarine, white and cool rays! May He reside and preside over my heart in this manner!
 
 342
 00:33:04,594 --> 00:33:09,421
@@ -1376,26 +1380,27 @@ Vēṅkaṭanātha! May you drink the nectar of knowledge from me…
 
 344
 00:33:13,949 --> 00:33:16,050
-… and excel in all arts.
+… and excel in all arts!
 
 345
 00:33:16,468 --> 00:33:21,050
-The Halāhala sounds in the form of neighings emanating from the divine throat of Srī Hayagrīva, the Horse-faced Lord, are the aggregate of Sāma Vēda Mantras, The word for word meanings of the Rigvēda and the abode of Yajurvēda Mantram.
+[Recitation - Ślōka 3, Hayagrīva Stōtra by Swāmi Vēdānta Dēsika]
 
 346
 00:33:22,050 --> 00:33:26,648
-These HalāHala nādhams are the destroyers of all obstacles to true Jnyanam about Chethana-Achethana-Isvara tathvams.
+
 
 347
 00:33:27,208 --> 00:33:31,050
-These Halāhala sounds are like the movement of the waves from the ocean of true knowledge (Jnānam).
+
 
 348
 00:33:31,522 --> 00:33:36,685
-May these holy sounds chase away the inner darkness arising from the uproar of debaters whose minds are driven by their own pride, arrogance and lack of knowledge.
+
 
 349
 00:33:42,470 --> 00:33:46,086
+[Tūppul, Kāñchīpuram]
 I’m worried as my father Appuḷḷār’s health is in a bad shape.
 
 350
@@ -1448,7 +1453,7 @@ Rāmānuja, my Āchārya! My Rāmānuja!
 
 362
 00:34:59,940 --> 00:35:10,050
-These are the Holy Sandals of Swāmi Rāmānuja. This is your wealth from now on…
+These are the Holy Sandals (Pādukā) of Swāmi Rāmānuja. This is your wealth from now on…
 
 363
 00:35:20,213 --> 00:35:40,215
@@ -1456,7 +1461,7 @@ Swāmi! Swāmi! I have no one … no one…
 
 364
 00:35:50,766 --> 00:35:55,530
-<i>The size of the uñchavritti vessel is becoming bigger by the day.</i>
+The size of the uñchavritti vessel is becoming bigger by the day.
 
 365
 00:35:55,660 --> 00:35:57,082
@@ -1648,7 +1653,7 @@ Maṅga, these are poisonous germs.
 
 412
 00:38:44,999 --> 00:38:47,847
-They are unfit to be offered as part of Ārādhana.
+They are unfit to be offered as part of Bhagavad Ārādhana.
 
 413
 00:39:04,736 --> 00:39:06,573
@@ -1713,20 +1718,19 @@ Eat first.
 
 428
 00:39:56,692 --> 00:40:03,161
-Those in this world who wish to start yogic activities…
+[Recitation - Ślōka 16, Srī Stuti by Swāmi Vēdānta Dēsika]
 
 429
 00:40:03,162 --> 00:40:09,585
-… with an eager mind approach you to seek wealth…
+
 
 430
 00:40:10,134 --> 00:40:15,365
-… for dharmic activities. Give them their desire of…
+
 
 431
 00:40:15,559 --> 00:40:21,889
-… wealth and allow it to grow.
-—Verse 16, Srī Stuti by Vēdānta Dēsika.
+
 
 432
 00:40:22,338 --> 00:40:26,979
@@ -1746,57 +1750,56 @@ This is all for you. Take them, child.
 
 436
 00:40:34,282 --> 00:40:39,095
-Peraruḷāḷa permanently resides in the hills of Hastigiri.
+[Recitation - Ślōka 1, Srī Varadarāja Pañchāśat by Swāmi Vēdānta Dēsika]
 
 437
 00:40:39,538 --> 00:40:44,001
-He emerged from the Aśwamēdha Yajna of Brahma and looked like a fire with a bluish hue.
+
 
 438
 00:40:44,466 --> 00:40:48,526
-His beauty is further accentuated by the presence of His consort who appears like…
+
 
 439
 00:40:48,527 --> 00:40:53,050
-… a golden creeper embracing the Karpaga tree.
-—Verse 1, Srī Varadarāja Pañchaśat.
+
 
 440
 00:40:54,050 --> 00:40:55,503
-Thus, Brahma carried out the Aśwamēdha Yajna for destruction of his…
+[Recitation - Pāsuram 15, Atithigiri Māhātmyam by Swāmi Vēdānta Dēsika]
 
 441
 00:40:55,504 --> 00:40:57,070
-… karmas that led him earlier to think that insignificant worldly pleasures…
+
 
 442
 00:40:57,071 --> 00:40:58,615
-… are great and lasting. At the conclusion of the Aśwamēdha with…
+
 
 443
 00:40:58,680 --> 00:41:00,799
-… great bhakti for the Lord, Brahma Dēva performed the Vapā hōma.
+
 
 444
 00:41:01,050 --> 00:41:05,051
-Immediately thereafter, the supreme radiance of the Lord arose from the middle…
+
 
 445
 00:41:05,052 --> 00:41:09,031
-… of the Yajna Kuṇḍa shining like thousands of suns. It was like the rise of…
+
 
 446
 00:41:09,032 --> 00:41:13,070
-… a golden mountain surrounded by Puṇya Kōṭi Vimāna, which made the regular sun…
+
 
 447
 00:41:13,728 --> 00:41:17,825
-… look like the lamp lit on a bright day.
-—Verse 15 from Atithigiri Mahātmyam by Swāmi Dēsika.
+
 
 448
 00:41:18,217 --> 00:41:46,237
-[Verse 3 from Āṇḍāḷ’s Tiruppāvai Pāsuram]
+[Srīraṅgam]
+[Recitation - Pāsuram 3, Āṇḍāḷ’s Tiruppāvai]
 
 449
 00:41:45,840 --> 00:41:47,903
@@ -1908,7 +1911,7 @@ This is His order. He has chosen Vēṅkaṭanātha for this debate.
 
 476
 00:43:50,050 --> 00:43:54,321
-Srīnivasa! Go to Kāñchipuram, inform Vēṅkaṭanātha about this…
+Srīnivasa! Go to Kāñchīpuram, inform Vēṅkaṭanātha about this…
 
 477
 00:43:54,337 --> 00:44:01,050
@@ -1920,35 +1923,35 @@ As you wish, Swāmi.
 
 479
 00:44:22,482 --> 00:44:27,730
-This temple is the home of the sweetest nectar.
+[Srīraṅgam]
 
 480
 00:44:27,731 --> 00:44:33,393
-This was the gift given by Brahma to the king of Ayōdhyā.
+[Song - Pāsuram 42, Adhikāra Sangraham by Swāmi Vēdānta Dēsika]
 
 481
 00:44:33,527 --> 00:44:39,452
-This was the temple prayed to by the invincible Rāma.
+
 
 482
 00:44:39,453 --> 00:44:45,922
-This temple was given by Rāma to Vibhīṣaṇa.
+
 
 483
 00:44:46,050 --> 00:44:51,670
-This temple gives all the combined benefits.
+
 
 484
 00:44:51,671 --> 00:44:57,982
-This is the temple with its Vimāna shaped as the Praṇava.
+
 
 485
 00:44:58,050 --> 00:45:04,784
-This is the temple that resolves all problems.
+
 
 486
 00:45:04,785 --> 00:45:10,050
-This is the temple of Srīraṅgam.
+
 
 487
 00:45:20,050 --> 00:45:22,611
@@ -1988,7 +1991,7 @@ Salutations.
 
 496
 00:45:52,050 --> 00:45:55,050
-Here comes Tūpul Vēṅkaṭanāthāchārya.
+Here comes Tūppul Vēṅkaṭanāthāchārya.
 
 497
 00:45:55,225 --> 00:45:58,160
@@ -2181,7 +2184,7 @@ Victory be to Swāmi Vedāntāchārya!
 
 544
 00:50:28,050 --> 00:50:58,222
-[Periyāzhwār Tirumozhi, Pāsuram 1-2-1]
+[Recitation - Pāsuram 1-2-1, Periyāzhwār Tirumozhi]
 
 545
 00:51:18,943 --> 00:51:21,946
@@ -2317,7 +2320,7 @@ What do you say of that?
 
 578
 00:52:34,347 --> 00:52:35,968
-Dispassion.
+Vairāgyam (Dispassion for material pleasures).
 
 579
 00:52:36,922 --> 00:52:37,622
@@ -2417,15 +2420,15 @@ But there are things beyond the reach of their minds.
 
 603
 00:53:38,624 --> 00:53:42,734
-Those that live in the vanity of material wealth and those
+Those that live in the vanity of material wealth and…
 
 604
 00:53:42,735 --> 00:53:47,086
-that discard material and hold in their heart the only dweller
+… those that discard material and hold in their heart the only dweller…
 
 605
 00:53:47,087 --> 00:53:50,804
-of the Kāñchi Puṇyakōṭi Vimānam are beyond comparison.
+… of the Kāñchī Puṇyakōṭi Vimānam are beyond comparison.
 
 606
 00:53:51,909 --> 00:53:54,814
@@ -2437,11 +2440,11 @@ But is losing yourself in lust a way to live?
 
 608
 00:54:00,550 --> 00:54:03,278
-My husband’s work are my jewellery.
+My husband’s works are my jewellery.
 
 609
 00:54:03,537 --> 00:54:07,496
-Srī Bhāṣya Sampradāyam born out of…
+Srībhāṣyakāra’s Sampradāyam born out of…
 
 610
 00:54:07,515 --> 00:54:08,932
@@ -2486,23 +2489,23 @@ Travel well.
 620
 00:54:41,801 --> 00:54:43,525
 [Tirumala]
+[Song - Pāsuram 43, Adhikāra Śangraham by Swāmi Vēdānta Dēsika]
 
 621
 00:55:35,270 --> 00:55:38,852
-Dayā Dēvī, I am the emperor of sins.
+[Recitation - Ślōka 30, Dayā Sātakam by Swāmi Vēdānta Dēsika]
 
 622
 00:55:39,036 --> 00:55:43,704
-You are the Empress presiding over the Lord’s Ananta Kalyāṇa Guṇas.
+
 
 623
 00:55:44,031 --> 00:55:47,838
-Oh, Empress, invade my kingdom of sins,
+
 
 624
 00:55:48,072 --> 00:55:52,201
-… conquer my kingdom and place me at the feet of the Lord at Tirumala.
-—Verse 30, Dayā Sātakam by Swāmi Dēsika
+
 
 625
 00:55:53,216 --> 00:55:55,773
@@ -2522,7 +2525,7 @@ The divine grace of Vṛṣagirinātha!
 
 629
 00:56:03,149 --> 00:56:04,545
-The merciful one.
+Daya Devi, the merciful one.
 
 630
 00:56:04,710 --> 00:56:06,976
@@ -2538,7 +2541,7 @@ Here comes Mahāchārya of Vijayanagara…
 
 633
 00:56:28,053 --> 00:56:29,674
-[Kāñchipuram]
+[Kāñchīpuram]
 
 634
 00:56:30,763 --> 00:56:31,679
@@ -2646,7 +2649,7 @@ Your Holiness.
 
 660
 00:58:01,477 --> 00:58:05,642
-You’ve been watching the Vaiṣṇava for some time now.
+You’ve been watching the Srīvaiṣṇava for some time now.
 
 661
 00:58:05,868 --> 00:58:07,037
@@ -2730,11 +2733,11 @@ Come, let’s go.
 
 681
 00:59:03,394 --> 00:59:14,654
-[Kāñchipuram]
+[Kāñchīpuram]
 
 682
 00:59:32,041 --> 00:59:58,634
-<i>[Recitation of Verse 10 from the Dēsika Prabandham, Tiruchchinnamalai]</i>
+[Pāsuram 10 from Tiruchchihnamālai by Swāmi Dēsika]
 
 683
 01:00:30,439 --> 01:00:31,410
@@ -2758,11 +2761,11 @@ Varada has awarded the Swāmi who sang the…
 
 688
 01:00:58,945 --> 01:01:02,714
-<i>…Tiruchchinnamālai with one of his two holy symbols.</i>
+… Tiruchchihnamālai with one of his two holy Tiruchchihnam instruments.
 
 689
 01:01:02,797 --> 01:01:05,511
-Going forward, Varada would have one symbol,
+Going forward, Varada would have one Tiruchchihnam instrument,
 
 690
 01:01:05,636 --> 01:01:07,604
@@ -2930,7 +2933,7 @@ What brings you so far?
 
 731
 01:04:06,225 --> 01:04:11,347
-Here is the idol of Hayagrīva, given to Bhāṣyaka by Saraswatī.
+Here is the idol of Hayagrīva, given to Srībhāṣyakāra by Saraswatī.
 
 732
 01:04:11,411 --> 01:04:12,402
@@ -2942,7 +2945,7 @@ Worshipped by Tirukkurugai Pirān Piḷḷān.
 
 734
 01:04:15,808 --> 01:04:27,170
-The Almighty has instructed me to hand over the idol to you.
+The Almighty has instructed me to hand over the Hayagrīva idol to you.
 
 735
 01:04:28,704 --> 01:04:29,529
@@ -2958,6 +2961,7 @@ God of voice!
 
 738
 01:04:44,443 --> 01:04:51,007
+[Kaśmir]
 <i>Swāmi Rāmānuja, wrote a brilliant explanation for Vyāsa’s Brahmasūtras…</i>
 
 739
@@ -3102,7 +3106,7 @@ Hold on, let me see.
 
 774
 01:07:18,895 --> 01:07:25,585
-[Mantras chanting]
+[Sanskṛt verse chanting]
 
 775
 01:07:31,593 --> 01:07:33,191
@@ -3110,7 +3114,7 @@ Looks like someone is coming.
 
 776
 01:07:39,564 --> 01:07:44,010
-[Mantras chanting]
+[Sanskṛt verse chanting]
 
 777
 01:08:06,443 --> 01:08:08,065
@@ -3186,7 +3190,7 @@ This is the path Rāmānuja showed.
 
 795
 01:09:25,053 --> 01:09:33,088
-<i>Only he who helps those in need can be a true Vaiṣṇava.</i>
+Only he who helps those in need can be a true Srīvaiṣṇava.
 
 796
 01:09:33,457 --> 01:09:36,070
@@ -3198,11 +3202,12 @@ My dear ones, don’t worry.
 
 798
 01:11:35,161 --> 01:11:37,655
-Victory be to Sudarśana.
+[Tirupputkuzhī]
+[Song based on Sudarśana Aṣṭakam, by Swāmi Vēdānta Dēsika]
 
 799
 01:11:40,379 --> 01:11:42,572
-Victory be to Sudarśana.
+Victory be to Sudarśana. Victory be to Sudarśana.
 
 800
 01:11:43,308 --> 01:11:45,442
@@ -3282,11 +3287,11 @@ What is this?
 
 819
 01:13:35,838 --> 01:13:39,852
-Perhaps Vaiṣṇavas have sent their blessings.
+Perhaps Srīvaiṣṇavas have sent their blessings.
 
 820
 01:13:41,472 --> 01:13:46,033
-In this world, some walk the path of good deeds.
+In this world, some walk the path of Karmā.
 
 821
 01:13:46,567 --> 01:13:49,625
@@ -3298,11 +3303,11 @@ But,
 
 823
 01:13:51,391 --> 01:13:58,663
-… Some like me, worship the pādukās of Vaiṣṇavas.
+… some like me, worship the pādukās of Srīvaiṣṇava devotees.
 
 824
 01:13:59,193 --> 01:14:00,859
-Isn’t his a blessing!
+Isn’t this a blessing!
 
 825
 01:14:01,400 --> 01:14:02,981
@@ -3330,11 +3335,11 @@ Please accept us as your students, Swāmi.
 
 831
 01:14:33,246 --> 01:14:37,465
-[Song praising Varada]
+[Song - Pāsuram 1,  Aḍaikalapattu by Swāmi Vēdānta Dēsika]
 
 832
 01:15:58,862 --> 01:16:03,503
-[Ślōkas chanting]
+[Recitation - Ślōka 12, Swāmi Vēdānta Dēsika Mangaḷāsāsanam by Kumāra Varadāchārya]
 
 833
 01:16:09,823 --> 01:16:10,727
@@ -3346,7 +3351,7 @@ What book is this?
 
 835
 01:16:14,119 --> 01:16:21,255
-<i>There once happened a discussion on the phrase, tattvamasi between…</i>
+There once happened a discussion on the phrase, tattvamasi between…
 
 836
 01:16:21,256 --> 01:16:25,425
@@ -3390,15 +3395,15 @@ Kumāravarada, you were born to me after years of childlessness.
 
 846
 01:17:04,932 --> 01:17:08,745
-Our ancestors have always walked the path of dispassion.
+Our ancestors have always walked the path of Vairāgya (dispassion for material pleasures).
 
 847
 01:17:09,787 --> 01:17:11,212
-Dispassion, determination and walking on the…
+Dispassion, determination and
 
 848
 01:17:11,213 --> 01:17:12,738
-… path shown by our scriptures go hand in hand.
+… and walking on the path shown by our scriptures go hand in hand.
 
 849
 01:17:13,960 --> 01:17:22,405
@@ -3410,11 +3415,11 @@ Even your mother wears only those ornaments…
 
 851
 01:17:27,956 --> 01:17:32,126
-… that she wore during our wedding.
+… that she wore during our wedding to mark her marital status.
 
 852
 01:17:32,640 --> 01:17:37,907
-To us, dispassion and following the divine path are important.
+To us, Vairāgya and Pramāna (following the holy scriptures) are important.
 
 853
 01:17:38,264 --> 01:17:39,274
@@ -3530,11 +3535,11 @@ I want renunciation, and I need your blessings for it.
 
 881
 01:19:22,651 --> 01:19:27,386
-Your determination is exemplary.
+Your Vairāgya (determination) is exemplary.
 
 882
 01:19:28,693 --> 01:19:34,010
-You have the blessings of the Almighty and Rāmānuja.
+You have the blessings of the Emperumān (Lord) and Emperumānār (Rāmānuja).
 
 883
 01:19:34,848 --> 01:19:37,735
@@ -3582,7 +3587,7 @@ With the fierce rituals I plan to perform today…
 
 894
 01:20:56,747 --> 01:21:00,322
-Let me preserve some of the soil from his footsteps.
+Let me preserve some of the soil from his footsteps to make a doll.
 
 895
 01:21:03,045 --> 01:21:06,806
@@ -3650,7 +3655,7 @@ Nṛsimha will shower His grace.
 
 911
 01:23:17,115 --> 01:24:30,066
-[Song in praise of Nṛsimha]
+[Song in praise of Srīnṛsimha]
 
 912
 01:26:11,425 --> 01:26:17,190
@@ -3846,7 +3851,7 @@ O, king of birds!
 
 960
 01:30:49,418 --> 01:31:08,324
-[Vēdam Ennum Kūṭil (song on Garuḍa)]
+[Song in Praise of Garuḍa based on Garuḍa Daṇḍakam by Swāmi Vēdānta Dēsika]
 
 961
 01:33:19,715 --> 01:33:23,947
@@ -3934,7 +3939,7 @@ O, Dēvanāyaka, please permit me to visit more Divyadēśas.
 
 982
 01:35:05,934 --> 01:35:09,646
-[Pon Viḷaintha Koḷattūr]
+
 
 983
 01:35:10,435 --> 01:35:11,135
@@ -3994,7 +3999,7 @@ Sit.
 
 997
 01:36:09,421 --> 01:36:10,795
-O, Lord.
+O, Goddess Perundēvī.
 
 998
 01:36:25,567 --> 01:36:26,267
@@ -4042,7 +4047,7 @@ Water is all I can offer during this…
 
 1009
 01:37:18,551 --> 01:37:22,811
-… journey, to Him the ruler of the worlds.
+… journey, to Him the one who ate the entire Universe (to preserve it).
 
 1010
 01:37:23,954 --> 01:37:26,240
@@ -4090,7 +4095,7 @@ Maṅga,
 
 1021
 01:38:10,597 --> 01:38:14,995
-… this is Hayagrīva’s game.
+… this is Lord Hayagrīva’s game.
 
 1022
 01:38:16,060 --> 01:38:19,567
@@ -4142,7 +4147,7 @@ Thank you!
 
 1034
 01:38:51,732 --> 01:38:57,600
-O horse-faced epitome of knowledge!
+O Hayagrīva, the horse-faced epitome of knowledge!
 
 1035
 01:38:58,633 --> 01:39:01,113
@@ -4190,31 +4195,31 @@ You are a holy incarnation!
 
 1046
 01:39:51,137 --> 01:39:55,236
-She is the eternal abode of all good things…
+[Recitation - Ślōka 24, Srī Stuti by Swāmi Vēdānta Dēsika]
 
 1047
 01:39:55,898 --> 01:39:59,993
-… the epitome of compassion…
+She is the eternal abode of all good things…
 
 1048
 01:40:00,735 --> 01:40:05,162
-… the garland on the crown of the Vēdas…
+… the epitome of compassion…
 
 1049
 01:40:05,645 --> 01:40:08,753
-… the lofty wealth of the Lord…
+… the garland on the crown of the Vēdas…
 
 1050
 01:40:09,531 --> 01:40:13,108
-… the boon-granting Kāmadhēnu.
+… the lofty wealth of the Lord…
 
 1051
 01:40:13,609 --> 01:40:17,201
-May she reside in my heart.
+… the boon-granting Kāmadhēnu.
 
 1052
 01:40:17,663 --> 01:40:25,398
-[Verse 24 of Srī Stuti by Swāmi Dēsika]
+May she reside in my heart.
 
 1053
 01:40:25,484 --> 01:40:26,838
@@ -4254,7 +4259,7 @@ Look closely.
 
 1062
 01:40:55,635 --> 01:41:09,164
-<i>[Swāmi Vēdānta Dēsikan’s Taniyan]</i>
+[Recitation - Single-verse praise (Taniyan) on Swāmi Vēdānta Dēsikan]
 
 1063
 01:41:09,347 --> 01:41:13,327
@@ -4314,7 +4319,7 @@ But…
 
 1077
 01:41:51,534 --> 01:41:56,906
-… I don’t support conflict among Vaiṣṇavas.
+… I don’t support conflict among Srīvaiṣṇavas.
 
 1078
 01:41:57,085 --> 01:42:01,653
@@ -4350,7 +4355,7 @@ Likewise, you must also write.
 
 1086
 01:42:34,168 --> 01:42:40,764
-Let the Vaiṣṇavas decide next morning…
+Let the Srīvaiṣṇavas decide next morning…
 
 1087
 01:42:41,049 --> 01:42:43,580
@@ -4362,6 +4367,7 @@ Let the Vaiṣṇavas decide next morning…
 
 1089
 01:43:15,815 --> 01:43:26,518
+[Srīvaikuṇṭham]
 What is my dear friend Pāduka Dēvī thinking about?
 
 1090
@@ -4470,7 +4476,7 @@ May be it is Pādukā Dēvī’s game.
 
 1116
 01:45:47,600 --> 01:45:52,950
-You must compose a thousand verses on Pādukā Dēvī by tonight.
+Vēṅkaṭanātha, You must compose a thousand verses on Pādukā Dēvī by tonight.
 
 1117
 01:45:53,831 --> 01:45:56,083
@@ -4579,15 +4585,16 @@ O Holy Feet, O Vēdas, O sound!
 
 1143
 01:47:38,780 --> 01:47:41,924
-I need Vainatēya’s blessings to complete…
+I need Vainatēya’s blessings to complete  writing a thousand verses by tonight.
 
 1144
-01:47:41,925 --> 01:47:44,864
-… writing a thousand verses by tonight.
+01:47:48,925 --> 01:47:51,864
+Salutations to Vainatēya
 
 1145
-01:47:53,214 --> 01:47:53,914
-[Dēsika starts composing the verses, the Pādukā Sahasram]
+01:47:53,214 --> 01:48:53,914
+[Dēsika starts composing]
+[Recitation - Ślōka 1, Pādukā Sahasram by Swāmi Vēdānta Dēsika]
 
 1146
 01:49:49,114 --> 01:49:51,682
@@ -4595,7 +4602,7 @@ Where is Swāmi?
 
 1147
 01:49:52,455 --> 01:49:54,380
-Here comes the Swāmi.
+Here comes our Swāmi.
 
 1148
 01:49:57,319 --> 01:50:00,543
@@ -4615,107 +4622,107 @@ Please recite the Pādukā Sahasram now.
 
 1152
 01:50:34,634 --> 01:50:39,771
-Great men bear on their heads, with a great relish, the Pādukā of Srī Raṅganātha.
+[Recitation - Ślōka 1, 2, 3, 5 … Pādukā Sahasram continues]
 
 1153
 01:50:39,772 --> 01:50:45,235
-For this reason, they shine gloriously, the dust from their feet being potent enough to…
+
 
 1154
 01:50:45,236 --> 01:50:48,421
-… grant protection (and salvation) to all the worlds.
+
 
 1155
 01:50:49,954 --> 01:50:51,601
-I pay my homage to that great pioneer, Bharata…
+
 
 1156
 01:50:51,602 --> 01:50:53,428
-… who was the first example for proclaiming the greatness…
+
 
 1157
 01:50:53,429 --> 01:50:54,897
-… of the Pādukā of Srī Rama in this world.
+
 
 1158
 01:50:54,898 --> 01:50:56,312
-(My homage is also due to Srī Nāthamunī…
+
 
 1159
 01:50:56,313 --> 01:50:58,918
-… who was to Srī Nammāzhvār, as Bharata was to the Rāghava Pāduka.
+
 
 1160
 01:50:58,919 --> 01:51:00,853
-And Nāthamunī—indeed Raṅganāthamunī—propagated Āzhvār’s work…
+
 
 1161
 01:51:00,854 --> 01:51:02,040
-… by singing with tāḷa and abhinaya…
+
 
 1162
 01:51:02,041 --> 01:51:03,281
-… that is with Bhāva, Rāga, and Tāḷa…
+
 
 1163
 01:51:03,282 --> 01:51:05,420
-… which is what the Bharatamuni did for the fine art of dance).
+
 
 1164
 01:51:05,760 --> 01:51:08,354
-Oh Pāduka Dēvī! I pay homage to that sage Nammazhvar…
+
 
 1165
 01:51:08,355 --> 01:51:11,693
-… who also bears your name (Satāri, being absorbed in Raṅganātha’s feet.
+
 
 1166
 01:51:11,694 --> 01:51:15,367
-I do this at the time of beginning your Stōtra. For it was he who “saw and…
+
 
 1167
 01:51:15,368 --> 01:51:17,287
-… delivered” the Vēda called Thiruvoymozhi…
+
 
 1168
 01:51:17,288 --> 01:51:19,798
-… which is only another form of the original Vēda and…
+
 
 1169
 01:51:19,799 --> 01:51:21,788
-… whose verses and words emit the fragrance…
+
 
 1170
 01:51:21,789 --> 01:51:23,896
-… of the Vakula flowers (dear to the Āzhvār).
+
 
 1171
 01:51:24,577 --> 01:51:26,234
-I am going to sing the praise of the Pādukās of Lord Raṅganātha…
+
 
 1172
 01:51:26,235 --> 01:51:27,592
-… which were first sung of by Sage Vālmīki and others…
+
 
 1173
 01:51:27,593 --> 01:51:29,301
-… being emboldened by the fact that these Pādukās make no distinction…
+
 
 1174
 01:51:29,302 --> 01:51:30,075
-… between the low and the high…
+
 
 1175
 01:51:30,076 --> 01:51:31,492
-… they being pleased to sit on my lowly head as well as…
+
 
 1176
 01:51:31,493 --> 01:51:32,602
-… on the highly-revered Upaniṣads, impartially.
+
 
 1177
 01:51:33,135 --> 01:51:36,945
-[Continues with the Pādukā Sahasram]
+[Recitation - Ślōka 1, 2, 3, 5 … Pādukā Sahasram continues]
 
 1178
 01:51:42,025 --> 01:51:51,801
@@ -4751,15 +4758,15 @@ There is no winner or loser here.
 
 1186
 01:52:29,640 --> 01:52:35,742
-Swāmi Dēsika has written many granthas.
+[Recitation - Single-verse praise (Taniyan) on Swāmi Vēdānta Dēsikan]
 
 1187
 01:52:35,743 --> 01:52:40,869
-May we get to know at least one…
+Swāmi Dēsika has written many granthas.
 
 1188
 01:52:40,870 --> 01:52:45,907
-… to be liberated from this world.
+May we get to know at least one to be liberated from this world.
 
 1189
 01:52:47,115 --> 01:52:53,216
@@ -4767,11 +4774,11 @@ How true is all that our elders told us!
 
 1190
 01:53:05,630 --> 01:53:29,749
-By order! By order! Swāmi Dēsika is arriving.
+[Recitation of Aruḷappāḍu, Swāmi Dēsika is honoured]
 
 1191
 01:53:34,756 --> 01:53:44,049
-[Recitation of Verse 1008 from the Pādukā Sahasram by Swāmi Dēsika]
+[Recitation - Ślōka 1008, Pādukā Sahasram by Swāmi Vēdānta Dēsika]
 
 1192
 01:54:07,116 --> 01:54:07,816
@@ -4783,7 +4790,7 @@ Yes, Maṅga?
 
 1194
 01:54:11,106 --> 01:54:14,210
-It is going to be the twelfth in a couple of days—
+It is going to be the alpa (short) Dwādaśi (twelfth day) in a couple of days—
 
 1195
 01:54:15,948 --> 01:54:17,307
@@ -4807,7 +4814,7 @@ But it won’t be possible when…
 
 1200
 01:54:26,726 --> 01:54:28,159
-… the twelfth finishes before dawn.
+… the Dwādaśi (twelfth day) finishes before dawn.
 
 1201
 01:54:28,289 --> 01:54:29,161
@@ -4827,7 +4834,7 @@ You too? What is it, Rājagōpāla?
 
 1205
 01:54:37,651 --> 01:54:41,574
-Please explain to us the essence of the Divya Prabandhas.
+Please explain to us the count of the Divya Prabandhas.
 
 1206
 01:54:41,769 --> 01:54:48,164
@@ -4855,55 +4862,55 @@ Maṅga, go and start your work.
 
 1212
 01:55:12,170 --> 01:55:18,404
-Swamy Dēsikan records precisely for posterity…
+[Song - Pāsuram 15 & 16, Prabandha Sāram by Swāmi Vēdānta Dēsika]
 
 1213
 01:55:18,405 --> 01:55:25,321
-… the authentic division of the 4000 sacred collect:
+
 
 1214
 01:55:25,322 --> 01:55:33,460
-Toṇḍaraḍippoḍi (55 Pāsurams); Pāṇar (10); Tirumaṅgāi (1253)…
+
 
 1215
 01:55:33,461 --> 01:55:41,941
-… the salvation-granting pāsurams of Amudanār on Srī Bhāṣyakāra’s…
+
 
 1216
 01:55:41,942 --> 01:55:49,539
-… sacred feet (108); Mudal Āzhwār (300 in total with 100…
+
 
 1217
 01:55:49,540 --> 01:55:58,581
-… each for Poigai, Bhūtam and Pēy); the luminous Tirumazhisai (216)…
+
 
 1218
 01:55:58,582 --> 01:56:03,152
-… The Pāsurams of Swāmy Nammāzhwār…
+
 
 1219
 01:56:03,153 --> 01:56:12,996
-… which are the essence of Vēdam (1296 housed in his four Prabhandhams)…
+
 
 1220
 01:56:12,997 --> 01:56:21,316
-… the generous Madhura Kavi known for his Āchārya Bhakti (10)…
+
 
 1221
 01:56:21,317 --> 01:56:28,373
-… King Kulaśēkhara (105); Periyāzhwār (473) and Āndāl…
+
 
 1222
 01:56:28,374 --> 01:56:34,909
-… who is an incarnation of the Bhūmi Dēvī (173).
+
 
 1223
 01:56:34,910 --> 01:56:40,141
-All of these add up to 4000 Pāsurams…
+
 
 1224
 01:56:40,142 --> 01:56:45,875
-… that are the means to our upliftment.
+
 
 1225
 01:56:54,200 --> 01:56:56,294
@@ -4987,7 +4994,7 @@ Srīman Nārāyaṇa!
 
 1245
 01:58:30,688 --> 01:58:41,116
-[Recitation single-verse praise for Swāmi Desika]
+[Recitation - Single-verse praise (Taniyan) on Swāmi Vēdānta Dēsika]
 
 1246
 01:58:44,798 --> 01:58:49,261
@@ -5059,7 +5066,7 @@ Srīraṅgam is in danger!
 
 1263
 02:00:01,756 --> 02:00:05,119
-Raṅga, should you test us like this?
+Raṅga, should you test your devotees like this?
 
 1264
 02:00:06,994 --> 02:00:07,866
@@ -5187,7 +5194,7 @@ I drank Raṅganātha’s pristine holy water with.
 
 1295
 02:02:50,466 --> 02:02:58,585
-And I fed him poison-filled liquor with my own hands.
+And I fed him poison-filled liquor.
 
 1296
 02:03:00,237 --> 02:03:07,787
@@ -5203,7 +5210,7 @@ I have a request.
 
 1299
 02:03:17,712 --> 02:03:22,514
-Would Raṅga accept this lowly sinner, Swāmi?
+Would Raṅga accept this lowly soul, Swāmi?
 
 1300
 02:03:26,226 --> 02:03:29,238
@@ -5223,7 +5230,7 @@ She is a holy woman.
 
 1304
 02:03:53,957 --> 02:03:58,084
-Please perform all the final rites befitting a Vaiṣṇava.
+Please perform all the final rites befitting a Srīvaiṣṇava.
 
 1305
 02:05:56,396 --> 02:05:58,193
@@ -5267,11 +5274,11 @@ You are like Hanumān;
 
 1315
 02:06:30,480 --> 02:06:39,255
-Just like how Jāmawant said that if Hanumān were safe, Rāma’s army would be safe,
+Just like how Jāmbavant said that if Hanumān were safe, Rāma’s army would be safe…
 
 1316
 02:06:39,264 --> 02:06:47,325
-if you are alive, Srīraṅgam will regain its glory.
+… if you are alive, Srīraṅgam will regain its glory.
 
 1317
 02:06:52,153 --> 02:06:55,277
@@ -5299,7 +5306,7 @@ I give this to you for safekeeping.
 
 1323
 02:07:15,384 --> 02:07:24,268
-Go through its contents and explain the same to other students through Kālakśepa.
+Go through its contents and teach the same to capable students through Kālakśepa.
 
 1324
 02:07:24,484 --> 02:07:28,052
@@ -5403,11 +5410,11 @@ I can hear someone coming.
 
 1349
 02:10:31,598 --> 02:10:37,785
-Boys, hold your breath and stay still like
+Boys, hold your breath and…
 
 1350
 02:10:37,786 --> 02:10:42,036
-a corpse among these corpses.
+… stay still like a corpse among these corpses.
 
 1351
 02:10:46,081 --> 02:10:48,916
@@ -5431,7 +5438,7 @@ Don’t say such things, Srīhari.
 
 1356
 02:11:41,658 --> 02:11:45,376
-Ah, I see some movement there!
+Ah, I see some movement there, amidst the corpses!
 
 1357
 02:11:46,489 --> 02:11:49,766
@@ -5503,7 +5510,7 @@ Even I am worried, Kaustubha.
 
 1374
 02:13:05,934 --> 02:13:11,651
-Mother Tirumaṅgā and Kumāravarada reached here safely.
+Mother Tirumaṅgā and Kumāravarada reached Satyākālam safely.
 
 1375
 02:13:12,104 --> 02:13:17,012
@@ -5559,7 +5566,7 @@ Take the children first.
 
 1388
 02:14:43,046 --> 02:14:47,137
-[Satyākālam]
+
 
 1389
 02:15:53,617 --> 02:15:54,593
@@ -5603,15 +5610,15 @@ Today is the day the followers of Sāmavēda perform their Upākarma.
 
 1399
 02:16:59,353 --> 02:17:04,615
-An apt day to begin the Kālakśēpa of Bhagavad Viṣayam,
+An apt day to begin…
 
 1400
 02:17:04,616 --> 02:17:08,004
-… which is the essence of Sāma Vēda.
+… the Kālakśēpa of Bhagavad Viṣayam, which is the essence of Sāma Vēda.
 
 1401
 02:17:08,248 --> 02:17:12,798
-Tirukkurugai Pirān Piḷḷān has given an explanation for Nammāzhvār’s…
+Tirukkurugai Pirān Piḷḷān has given an explanation for…
 
 1402
 02:17:12,799 --> 02:17:16,694
@@ -5635,6 +5642,7 @@ I would like to offer a one-verse praise (Taniyan) for recitation during Bhagava
 
 1407
 02:17:33,468 --> 02:17:39,396
+[Recitation - Single-verse praise (Taniyan) on Swāmi Vēdānta Dēsikan]
 I worship the Vēṅkaṭanātha, who is endowed with the auspices and glories,
 
 1408
@@ -5651,11 +5659,11 @@ Excellent!
 
 1411
 02:17:49,768 --> 02:17:57,400
-Srīmān Vēṅkaṭanāthāryaḥ explains the greatness of our esoteric works,
+Taniyan, “Srīmān Vēṅkaṭanāthāryaḥ” explains the greatness of our esoteric works,
 
 1412
 02:17:57,401 --> 02:18:04,819
-… while Rāmānuja Dayāpātram is blessed with love by our Selvapiḷḷai.
+… while this Taniyan, “Rāmānuja Dayāpātram” has our Selvapiḷḷai’s blessings.
 
 1413
 02:18:06,722 --> 02:18:10,077
@@ -5663,10 +5671,11 @@ Swāmi, I have yet another request.
 
 1414
 02:18:10,894 --> 02:18:15,858
-I would like to present another one-verse praise, this one for Kumāravarada.
+I would like to present another one-verse praise (Taniyan), this one for Kumāravarada.
 
 1415
 02:18:16,913 --> 02:18:20,901
+[Recitation - Single-verse praise (Taniyan) on Kumāravarada]
 I take refuge at the sacred feet of Kumāra Varadārya,
 
 1416
@@ -5803,7 +5812,7 @@ the celestial positions and movements.
 
 1449
 02:20:22,254 --> 02:20:25,291
-But we cannot understand divine intervention.
+But we cannot understand divine orders.
 
 1450
 02:20:25,787 --> 02:20:28,996
@@ -5811,7 +5820,7 @@ Only those who have the complete grace of the Lord
 
 1451
 02:20:28,997 --> 02:20:30,958
-can explain these interventions.
+can explain these divine interventions.
 
 1452
 02:20:31,202 --> 02:20:35,457
@@ -5876,7 +5885,7 @@ The Raṅganātha is not there anymore either.
 1467
 02:21:13,455 --> 02:21:19,546
 I heard that the Swāmi has moved from Srīraṅgam to
-a place called Satyākālam in Karṇātaka.
+a place called Satyākālam.
 
 1468
 02:21:19,882 --> 02:21:22,310
@@ -5905,39 +5914,39 @@ I am going to meet the great man today.
 
 1474
 02:21:37,156 --> 02:21:40,933
-O, Raṅganātha, the Bauddhas, the Chārvakas today propagate their fault-ridden mantras
+[Recitation - Ślōka 22, Abhīṭistava by Swāmi Vēdānta Dēsika]
 
 1475
 02:21:40,934 --> 02:21:43,302
-and are set to detroy your pristine Vaidika Maṭha.
+
 
 1476
 02:21:43,303 --> 02:21:46,619
-The Turks and the Greeks appear like special agents of the Kali Puruṣa
+
 
 1477
 02:21:46,620 --> 02:21:49,151
-causing grievous injuries to all who follow your path.
+
 
 1478
 02:21:49,152 --> 02:21:52,353
-The land is experiencing fear due to the activities of these groups.
+
 
 1479
 02:21:52,354 --> 02:21:54,012
-The fear grows further and further.
+
 
 1480
 02:21:54,013 --> 02:21:56,666
-Your five weapons are powerful in destroying our enemies.
+
 
 1481
 02:21:56,667 --> 02:21:58,521
-They protect the assembly of the sages.
+
 
 1482
 02:21:58,522 --> 02:22:01,804
-Please use these weapons and chase away the fear enveloping this land.
+
 
 1483
 02:22:02,082 --> 02:22:02,782
@@ -6113,11 +6122,11 @@ Victory be to Raṅganātha! Victory be to Raṅganātha!
 
 1526
 02:25:09,551 --> 02:25:14,682
-[Recitation of Verse 54 from Dēsika Prabandham (Paramadha Bhangam)]
+[Recitation - Pāsuram 54, Paramada Bhaṅgam by Swāmi Vēdānta Dēsika ]
 
 1527
 02:27:02,650 --> 02:27:07,973
-O Dēvādirāja! Varada! Please protect the temples of all the holy places.
+O Dēvādirāja! Please protect the temples of all the holy places.
 
 1528
 02:27:07,967 --> 02:27:09,334
@@ -6351,7 +6360,7 @@ This is the Srīmad Rahasya Trayasāram.
 1585
 02:32:08,893 --> 02:32:16,162
 This is the compilation of all the meanings learned from my
-Āchārya and uncle, Appuḷār, or Vāti Hamsāmputāchārya.
+Āchārya and uncle, Appuḷār, or Vādi Hamsāmputāchārya.
 
 1586
 02:32:17,027 --> 02:32:22,150
@@ -6385,7 +6394,7 @@ Kumāravarada … Jīya…
 
 1593
 02:33:17,903 --> 02:33:19,645
-I am leaving for His holy abode.
+I am leaving for His holy abode (Paramapadam).
 
 1594
 02:33:21,800 --> 02:33:28,336
@@ -6393,12 +6402,12 @@ There. Para-Vāsudēva is calling me.
 
 1595
 02:33:30,982 --> 02:33:37,256
-The Nityasūrīs (Eternal Souls) are welcoming me,
-the servant of His Holy Sandals.
+The Nityasūrīs (Eternal Souls) are welcoming me as
+“The servant of His Holy Sandals”.
 
 1596
 02:33:37,903 --> 02:33:44,708
-Before that, let me take leave from the Perumāḷ residing at Tirumala.
+Before that, let me take leave from the Perumāḷ residing at Perumāḷ Kōvil, Tirumala.
 
 1597
 02:34:17,266 --> 02:34:22,993
@@ -6414,7 +6423,7 @@ Before that, let me take leave from the Perumāḷ residing at Tirumala.
 
 1600
 02:34:42,209 --> 02:34:49,825
-<i>Chellapiḷḷāi…</i>
+<i>Our Chellapiḷḷāi…</i>
 
 1601
 02:34:53,590 --> 02:35:14,678
@@ -6431,7 +6440,7 @@ Before that, let me take leave from the Perumāḷ residing at Tirumala.
 1604
 02:36:34,426 --> 02:36:49,521
 <i>Do you wish to enter the Vaikuṇṭham leaving behind
-Tirumala, Srīraṅgam or Kāñchi?</i>
+Tirumala, Srīraṅgam or Kāñchī?</i>
 
 1605
 02:37:11,302 --> 02:37:26,004
@@ -6440,11 +6449,11 @@ leaving us deities yearning for you?</i>
 
 1606
 02:37:26,066 --> 02:37:41,172
-<i>Vēṅkaṭanātha, forget Vaikuṇṭham and stay here on earth.</i>
+<i>The sucessful debater Vēṅkaṭanātha, forget Vaikuṇṭham and stay here on earth.</i>
 
 1607
 02:37:52,038 --> 02:37:58,611
-<i>Please let me leave, O gods.</i>
+<i>Please let me leave, O Dēvas.</i>
 
 1608
 02:38:06,835 --> 02:38:21,538
@@ -6452,7 +6461,7 @@ leaving us deities yearning for you?</i>
 
 1609
 02:38:42,145 --> 02:38:45,911
-Kumāravarada, bring my Āchārya’s sandals.
+Kumāravarada, bring my Āchārya’s holy sandals.
 
 1610
 02:38:49,891 --> 02:38:54,396
@@ -6460,7 +6469,7 @@ Kumāravarada, bring my Āchārya’s sandals.
 
 1611
 02:39:02,576 --> 02:39:07,648
-[Recitation of Appuḷḷār’s Taniyan]
+[Recitation - Single-verse praise (Taniyan) on Appuḷḷār]
 
 1612
 02:39:20,747 --> 02:39:29,266
@@ -6468,8 +6477,9 @@ Kumāravarada, Jīya, my blessings to you both.
 
 1613
 02:39:57,720 --> 02:40:01,074
-[Verse 19 from Piḷḷāi Antādi]
+[Song - Pāsuram 19, Piḷḷāi Antādi by Kumāra Varadāchārya]
 
 1614
-02:40:20,000 --> 02:40:30,000
-[Subtitles: Sriranjani, Lavanya Rathnam and Ram Iyer]
+02:41:001,000 --> 02:41:60,000
+[English Subtitles: Ram Iyer & SARAN Sevaks]
+
